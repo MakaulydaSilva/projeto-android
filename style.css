@@ -165,6 +165,12 @@ main a:hover {
     color: var(--cor4);
 }
 
+iframe {
+ margin: 40px;
+ padding: 40px;
+ 
+}
+
 aside {
     background-color: var(--cor1);
     padding: 10px;
